@@ -1,1 +1,1 @@
-# e13_homework_week_14_day_01
+# A small react.js app made to create a IMDB list
